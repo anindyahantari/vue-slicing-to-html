@@ -1,0 +1,1 @@
+vue-slicing-to-html
